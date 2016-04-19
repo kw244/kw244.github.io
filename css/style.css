@@ -4342,6 +4342,7 @@ a {
     height: 200px;
     overflow: hidden;
     position: relative;
+    margin:auto;
 }
 #events .image-frame img{
     position: absolute;
